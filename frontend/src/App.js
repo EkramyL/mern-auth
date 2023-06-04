@@ -6,11 +6,11 @@ function App() {
   return (
     <>
       <Header />
-      <Container>
-        <main>
+      <main>
+        <Container>
           <h1>welcome to proshop</h1>
-        </main>
-      </Container>
+        </Container>
+      </main>
       <Footer />
     </>
   );
